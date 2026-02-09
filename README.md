@@ -12,6 +12,7 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/iharini23/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/iharini23/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Dynamic Programming
 |  |
