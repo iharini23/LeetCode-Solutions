@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iharini23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/iharini23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/iharini23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
