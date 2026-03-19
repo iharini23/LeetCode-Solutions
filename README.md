@@ -20,6 +20,7 @@
 | [0180-consecutive-numbers](https://github.com/iharini23/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/iharini23/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/iharini23/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/iharini23/LeetCode-Solutions/tree/master/0262-trips-and-users) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/iharini23/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/iharini23/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/iharini23/LeetCode-Solutions/tree/master/0608-tree-node) |
