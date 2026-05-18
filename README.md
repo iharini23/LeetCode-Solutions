@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iharini23/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/iharini23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,8 +74,13 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iharini23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iharini23/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
