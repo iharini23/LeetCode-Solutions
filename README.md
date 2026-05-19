@@ -50,6 +50,7 @@
 | [0013-roman-to-integer](https://github.com/iharini23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/iharini23/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/iharini23/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/iharini23/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,4 +87,16 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/iharini23/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/iharini23/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/iharini23/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
