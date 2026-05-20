@@ -11,6 +11,7 @@
 | [0219-contains-duplicate-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/iharini23/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/iharini23/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/iharini23/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/iharini23/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/iharini23/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
@@ -105,4 +107,8 @@
 | [0402-remove-k-digits](https://github.com/iharini23/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/iharini23/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/iharini23/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
