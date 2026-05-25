@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/iharini23/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iharini23/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/iharini23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iharini23/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/iharini23/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/iharini23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/iharini23/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
