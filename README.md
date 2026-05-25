@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/iharini23/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/iharini23/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/iharini23/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/iharini23/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/iharini23/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iharini23/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/iharini23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/iharini23/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
