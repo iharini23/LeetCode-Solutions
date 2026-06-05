@@ -73,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/iharini23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/iharini23/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0400-nth-digit](https://github.com/iharini23/LeetCode-Solutions/tree/master/0400-nth-digit) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0074-search-a-2d-matrix](https://github.com/iharini23/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iharini23/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/iharini23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0400-nth-digit](https://github.com/iharini23/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/iharini23/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/iharini23/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
